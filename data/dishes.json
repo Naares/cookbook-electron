@@ -1,0 +1,17 @@
+[{
+    "name":"Chicken soup",
+    "mutiplyers":{
+        "adult":1,
+        "child":0.5
+    },
+    "ingredients":[{
+        "name":"carrot",
+        "weight":"1",
+        "unit":"ks"
+    },
+    {
+        "name":"chicken",
+        "weight":"12",
+        "unit":"kg"
+    }]
+}]
