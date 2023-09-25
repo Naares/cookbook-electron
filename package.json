@@ -1,0 +1,22 @@
+{
+  "name": "cookbook-electron",
+  "version": "1.0.0",
+  "description": "Hello, init commit",
+  "main": "src/main.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naares/cookbook-electron.git"
+  },
+  "author": "Jan Kolář",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naares/cookbook-electron/issues"
+  },
+  "homepage": "https://github.com/Naares/cookbook-electron#readme",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
